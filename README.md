@@ -1,1 +1,1 @@
-# pomodoroApp https://zwonx.github.io/pomodoroApp/ (not functional)
+# pomodoroApp https://pradeeprajnepal.github.io/pomodoroApp/ (not functional)
